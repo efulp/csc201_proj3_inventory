@@ -9,7 +9,7 @@ import java.util.Scanner;
  *   java program -[a|b] input_name_file output_name_file
  *
  * @author Nirre Pluf {@literal }
- * @version 0.2, Oct. 26, 2021
+ * @version 0.2, Oct. 24, 2022
  */
 
 public class Inventory{  
