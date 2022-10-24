@@ -55,7 +55,7 @@ public class Inventory{
 
 
     /**
-     *  This method displays the invetory database information (screen and file) 
+     *  This method displays the inventory database information (screen and file) 
      *
      *  @param  outFile is the output filename (command line argument)
      *  @param  tree is the inventory database (a BST or AVL)
